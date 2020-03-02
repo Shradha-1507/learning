@@ -8,4 +8,7 @@ Maggi
 Egg fry
 Egg Omlet
 
+Chicken Fry
+Chicken Tandoori
+
 Thanks
